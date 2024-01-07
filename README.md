@@ -28,8 +28,6 @@ K nastavení přesného času v modulu DS1302 je určen projekt "DS1302-set-time
 
 > Otevřít tuto stránku v aplikaci [https://georger420.github.io/bcd-binary-watch-with-rtc-ds1302/](https://georger420.github.io/bcd-binary-watch-with-rtc-ds1302/)
 
-Do projektu je třeba do importovat rozšíření pro DS1302 - (https://github.com/makecode-extensions/DS1302)
-
 ## Upravit tento projekt
 
 Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
@@ -37,6 +35,8 @@ Slouží k úpravě tohoto úložiště v aplikaci MakeCode.
 * otevřít [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * klikněte na možnost **Import** a poté na **Import adresy URL**
 * vložte **https://github.com/georger420/bcd-binary-watch-with-rtc-ds1302** a klikněte na možnost import
+
+Do projektu je třeba do importovat rozšíření pro DS1302 - (https://github.com/makecode-extensions/DS1302)
 
 #### Metadata (slouží k vyhledávání, vykreslování)
 
