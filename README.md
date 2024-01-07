@@ -5,7 +5,7 @@ Pokusný projekt s micro:bit ukazuje aktuální čas v BCD kódu. To znamená, �
 
 Na obrázku je zobrazen čas 14:22.
 
-Pro uchování času i po vypnutí základní desky micro:bit je použit RTC modul DS1302.
+Uchování času i po vypnutí základní desky micro:bit zajišťuje RTC modul DS1302.
 
 RTC modul je k micro:bit připojen takto:
 
@@ -15,7 +15,7 @@ RTC modul je k micro:bit připojen takto:
 | DAT        | 14            |
 | RST        | 15            |
 
-Pro nastavení přesného času v modulu DS1302 je určen projekt "DS1302-set-time" - https://makecode.microbit.org/S05452-41199-06019-32320 . 
+K nastavení přesného času v modulu DS1302 je určen projekt "DS1302-set-time" - https://makecode.microbit.org/S05452-41199-06019-32320 . 
 
 ## Možná vylepšení
 
@@ -28,7 +28,7 @@ Pro nastavení přesného času v modulu DS1302 je určen projekt "DS1302-set-ti
 
 > Otevřít tuto stránku v aplikaci [https://georger420.github.io/bcd-binary-watch-with-rtc-ds1302/](https://georger420.github.io/bcd-binary-watch-with-rtc-ds1302/)
 
-Pro správnou funkci je třeba do projektu importovat rozšíření pro DS1302 - (https://github.com/makecode-extensions/DS1302)
+Do projektu je třeba do importovat rozšíření pro DS1302 - (https://github.com/makecode-extensions/DS1302)
 
 ## Upravit tento projekt
 
