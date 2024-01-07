@@ -1,5 +1,5 @@
 # Binární hodiny s micro:bit a RTC modulem DS1302
-Pokusný projekt s micro:bit ukazuje aktuální čas v BCD kódu. To znamená, že jednotlivé číslice čísla v desítkové soustavě jsou ve stejném pořadí vyjádřeny čísly ve dvojkové soustavě. Zde v pořadí: desítky hodin, jednotky hodin, desítky minut a jednotky minut. Mezi jednotkami hodin a desítkami minut je blikající oddělovač nahrazující dvojtečku. Bity s nejnižší hodnotou jsou na řádku 4 maticového displeje, bity s nejvyšší hodnotou na řídku 1, oddělovač na řádku 0.
+Pokusný projekt s micro:bit ukazuje aktuální čas v BCD kódu. To znamená, že jednotlivé číslice čísla v desítkové soustavě jsou ve stejném pořadí vyjádřeny čísly ve dvojkové soustavě. Zde v pořadí: desítky hodin, jednotky hodin, desítky minut a jednotky minut. Mezi jednotkami hodin a desítkami minut je blikající oddělovač nahrazující dvojtečku. Bity s nejnižší hodnotou jsou na řádku 4 maticového displeje, bity s nejvyšší hodnotou na řádku 1, oddělovač na řádku 0.
 
 ![Micro:bit Binary Watch](mbit_bin_watch.png)
 
