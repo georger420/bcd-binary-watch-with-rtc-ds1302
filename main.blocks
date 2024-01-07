@@ -1,0 +1,9 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="ic:B,.Gp^7B`$+`GbNZq">hourdes</variable><variable id="9(*2OfSM*:I]0LyB{x!]">hourjed</variable><variable id="O/Su4SrHtG@@PQrtxwW4">mindes</variable><variable id="/DXDGM-G]gm0[r}G5$2,">minjed</variable><variable id="0|en$q{/ng16iZ53Dcs8">hourdesbin</variable><variable id="}/8A/3x;^^+Q;AjK0i|@">hourjedbin</variable><variable id=".53Y_).,`Tapt^aEf%/2">mindesbin</variable><variable id="1txTJCG%z?D^(bj%egv-">minjedbin</variable><variable id="EHG)/}fsTiQ-9O_Fa_hq">pom</variable><variable id="R+(INriCLdC0AQp?n_!I">i</variable><variable id="!0B]_gW^uOQKx*9l()Dt">pom2</variable><variable id="dN11c7Wj}0ISSm+zrPn!">hodiny</variable><variable id="yE#myW)$0Rh}I.z[@[L/">ds</variable><variable id="7E5AFPe/,kOADgd!/rOZ">minuty</variable><variable id=";wb%-E_J~^9Y@FQ1v7MN">sekundy</variable></variables><comment id="H?(NDPB/~XpmEE_I-3Uj" data="0" x="0" y="0" h="120" w="160">seconds</comment><comment id="_=XB)8.XnVH[@aCze-?G" data="1" x="0" y="0" h="360" w="480">User guide:
+
+1. connect micro:bit device
+
+2. set variables "hodiny", "minuty" and "sekundy" to some very close future time
+
+3. wait until current time correspods to variables setting
+
+4. upload programm to device</comment></xml>
